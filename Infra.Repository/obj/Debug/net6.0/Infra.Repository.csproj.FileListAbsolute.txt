@@ -1,0 +1,15 @@
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.deps.json
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.dll
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Infra.Repository.pdb
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Domain.dll
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\bin\Debug\net6.0\Domain.pdb
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.AssemblyReference.cache
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.AssemblyInfoInputs.cache
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.AssemblyInfo.cs
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.csproj.CopyComplete
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.dll
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\refint\Infra.Repository.dll
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\Infra.Repository.pdb
+C:\Users\nanda\dev\DigitalAccount\Infra.Repository\obj\Debug\net6.0\ref\Infra.Repository.dll
